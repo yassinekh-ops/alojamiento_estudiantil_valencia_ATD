@@ -1,4 +1,4 @@
-# Análisis de Alojamiento Estudiantil en Valencia (2027-2028)
+# Análisis de Alojamiento Estudiantil en Valencia (2026-2027)
 
 Proyecto individual de **Mohamed Yassine Khelifi** para la asignatura ATD (UPV).  
 Sistema modular en Python para la extracción, integración, homogeneización y consulta interactiva de habitaciones para estudiantes en Valencia comparando **Idealista** y **HousingAnywhere**.
